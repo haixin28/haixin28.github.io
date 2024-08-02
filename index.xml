@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haixin</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Haixin</description>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>葡萄成熟时</title>
+      <link>https://example.org/star/kitty/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/star/kitty/</guid>
+      <description>Cool Kitty</description>
+    </item>
+    <item>
+      <title>无条件</title>
+      <link>https://example.org/star/cat/</link>
+      <pubDate>Mon, 28 May 2001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/star/cat/</guid>
+      <description>无条件</description>
+    </item>
+    <item>
+      <title>I am what I am</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description> self.name = &amp;quot;Haixin Li&amp;quot; self.born_year = 2001 self.MBTI = &amp;quot;INFJ&amp;quot; self.lucky color = &amp;quot;yellow&amp;quot; self.constellation = &amp;quot;Gemini&amp;quot; </description>
+    </item>
+    <item>
+      <title>Recent Reading</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/contact/</guid>
+      <description>秘密 郎达.白恩</description>
+    </item>
+  </channel>
+</rss>
